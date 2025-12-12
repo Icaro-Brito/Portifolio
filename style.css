@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Geom", sans-serif;
-
 }
 
 /* Edição da imagem atribuindo uma classe no html */
@@ -75,7 +74,6 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     padding: 0 40px;
-
 }
 
 .btn-contato button:hover {
@@ -119,7 +117,6 @@ section.topo-do-site .flex {
     width: 400px;
     position: relative;
     animation: flutuar 3s ease-in-out infinite alternate;
-
 }
 
 @keyframes flutuar {
